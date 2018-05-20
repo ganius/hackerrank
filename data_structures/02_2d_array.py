@@ -1,7 +1,6 @@
 def array_2d(arr):
     """
     https://www.hackerrank.com/challenges/2d-array/problem
-
     Calculates the "hourglass" sum of every hourglass in 6X6 2D array and return the max sum
     :param arr: a list
     :return: the max sum

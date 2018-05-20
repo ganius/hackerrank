@@ -1,8 +1,8 @@
 def dynamic_array():
     """
+    https://www.hackerrank.com/challenges/dynamic-array/problem
     Updates and prints an element of a dynamically sized array based on some input.
     Unnecessarily complicated problem, straightforward solution.
-    https://www.hackerrank.com/challenges/dynamic-array/problem
     """
     first_input = input().strip().split()
     array_size = int(first_input[0])
